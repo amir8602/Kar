@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kar_jar</output-path>
+    <root id="archive" name="Kar.jar">
+      <element id="module-output" name="Kar" />
+    </root>
+  </artifact>
+</component>
